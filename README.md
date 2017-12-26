@@ -1,2 +1,1 @@
-# ifanatic-admin
-爱狂热后台框架
+## 初始化ifanatic-admin后台框架
